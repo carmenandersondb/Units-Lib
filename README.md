@@ -2,8 +2,6 @@
 
 A spreadsheet of `standardFieldName` values and their corresponding units.
 
-[units.xlsx](https://github.com/user-attachments/files/31976091/units.xlsx)
-
 ## Usage
 
 1. Insert the `units` sheet into a loadsheet workbook.
